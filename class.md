@@ -1,6 +1,6 @@
 ## Class Information
-- Name: [Your Name Here]  
-- Certification: [Your Certification Name Here]  
+- Name: [Dhruv]  
+- Certification: [version control with git and github by meta]  
 
 ## Instructions
 Please replace the placeholders with your details:
